@@ -141,3 +141,6 @@
 |DMFT1543406606306.ttf|Cloudtype-shoujinzhengGB Regular|Cloudtype-shoujinzhengGB-Regular|Cloudtype-shoujinzhengGB|Regular|1.0 www.reeji.com QQ:2770851733 Mail:Reejifont@outlook.com REEJI Shang hai Rui Xian Creative Design Co., Ltd.|
 |DMFT1544449595962.ttf|REEJI-CHAO-XiaoShiT Regular|REEJI-CHAO-XiaoShiT-Regular|REEJI-CHAO-XiaoShiT|Regular|1.0 www.reeji.com QQ:2770851733 Mail:Reejifont@outlook.com REEJI Shang hai Rui Xian Creative Design Co., Ltd.|
 |DMFT1544449671615.ttf|REEJI-CHAO-XiaoShiGB Regular|REEJI-CHAO-XiaoShiGB-Regular|REEJI-CHAO-XiaoShiGB|Regular|1.0 www.reeji.com QQ:2770851733 Mail:Reejifont@outlook.com REEJI Shang hai Rui Xian Creative Design Co., Ltd.|
+|DMFT1545383816674.ttf|LoongType-Slow-LightGB Regular|LoongType-Slow-LightGB-Regular|LoongType-Slow-LightGB|Regular|1.0 www.loongtype.com QQ:2238800357 Mail:loongtype@qq.com LoongType Shanghai LoongType Culture and Art Center (LP)|
+|DMFT1545383850786.ttf|LoongType-SlowGB Regular|LoongType-SlowGB-Regular|LoongType-SlowGB|Regular|1.0 www.loongtype.com QQ:2238800357 Mail:loongtype@qq.com LoongType Shanghai LoongType Culture and Art Center (LP)|
+|DMFT1545383913104.ttf|LoongType-Slow-BoldGB Regular|LoongType-Slow-BoldGB-Regular|LoongType-Slow-BoldGB|Regular|1.0 www.loongtype.com QQ:2238800357 Mail:loongtype@qq.com LoongType Shanghai LoongType Culture and Art Center (LP)|
